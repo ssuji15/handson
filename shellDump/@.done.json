@@ -1,0 +1,12 @@
+{
+    "end": "2022-07-11 18:42:14",
+    "dataBytes": 692377,
+    "tableDataBytes": {
+        "library": {
+            "books": 692377
+        }
+    },
+    "chunkFileBytes": {
+        "library@books@@0.tsv.zst": 692377
+    }
+}
